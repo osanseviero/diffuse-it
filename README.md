@@ -13,8 +13,23 @@ Click on the link below to try it out:
 
 ### 1. You define which term to use
 
-### 2. We download ~150 images and use them to train a Diffusion model using the `diffusers` library.
+### 2. We download ~150 images 
+
+![downloaded images](images/images.png)
+
+### 3. We train a Diffusion model using the `diffusers` library. 🍿
+
+![downloaded images](images/tensorboard.png)
+
 
 ### 3. We push the model to Hugging Face Hub to share the model with the world
 
+![downloaded images](images/model_card.png)
+
 ### 4. We create a demo so anyone can try it out, even if they don't know code!
+
+![downloaded images](images/demo.png)
+
+### But if you do like to code, load the model with a single line of code!
+
+![downloaded images](images/snippet.png)
