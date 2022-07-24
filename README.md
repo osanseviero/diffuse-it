@@ -6,6 +6,9 @@ Create your ML models and demos for generating images for a word you specify in 
 
 Click on the link below to try it out:
 
+<a href="https://colab.research.google.com/github/osanseviero/diffuse-it//blob/main/DiffuseIt.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
 ## How does it work?
 
 ### 1. You define which term to use
